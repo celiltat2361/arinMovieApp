@@ -22,25 +22,32 @@
       "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg"
     },
     {
-      "id": 4,
-      "name": "Rogue",
-      "rating": 7.4,
-      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
-      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/uOw5JD8IlD546feZ6oxbIjvN66P.jpg"
+      "name": "Rogue 3",
+      "rating": "9",
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content. Test Test",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/uOw5JD8IlD546feZ6oxbIjvN66P.jpg",
+      "id": 4
     },
     {
-      "id": 5,
-      "name": "Project Power",
-      "rating": 6.7,
+      "name": "Superman ",
+      "rating": "9",
       "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
-      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/TnOeov4w0sTtV2gqICqIxVi74V.jpg"
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/6Bbq8qQWpoApLZYWFFAuZ1r2gFw.jpg",
+      "id": 6
     },
     {
-      "id": 6,
-      "name": "Superman",
-      "rating": 7.6,
-      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
-      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/6Bbq8qQWpoApLZYWFFAuZ1r2gFw.jpg"
+      "name": "Matrix",
+      "rating": "8.0",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+      "overview": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "id": 7
+    },
+    {
+      "name": "Space Jam",
+      "rating": "7.7",
+      "overview": "Trapped in a digital space with his young son Dom by a corrupt AI, LeBron has to do to get them home safely by leading Bugs, Lola Bunny and the entire Looney Tunes gang famous for their indiscipline.",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uHDF2320SbWDTP1FMZ8LgEIHew2.jpg",
+      "id": 8
     }
   ]
 }
